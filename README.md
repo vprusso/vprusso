@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**vprusso/vprusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Vincent Russo.
 
-Here are some ideas to get you started:
+I am presently the CEO and co-founder of Modellicity; a company focused on
+delivering software solutions to clients in the financial space and abroad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hold a Bachelors, Masters, and Ph.D. in computer science.
+
+I have over a decade of experience in creating robust software solutions and
+have worked in a wide variety of technical domains including cryptography,
+GPU-driven research, numerical optimization, web, and automation services.
+Additionally, I have published several peer-reviewed journal articles in areas
+including computer science and quantum information.
+
+Check out my papers, presentations, and research over at my [personal
+webpage](http://vprusso.github.io/).
+
+- 🖥️ I have a [course on Educative](https://www.educative.io/courses/ds-and-algorithms-in-python) where I cover data structures and algorithms in Python
+- 🎓 I teach programming on my [LucidProgramming YouTube channel](https://www.youtube.com/channel/UCFxcvyt2Ucq5IL0_1Njzqlg).
+- 🎸 I like to [play guitar](https://www.youtube.com/watch?v=DpjVJ76pLMY)
+- ⚛️  I write [papers and code](https://vprusso.github.io/publications/) for various topics in quantum information.
+- 🎤 I co-host a podcast, ["Nonlocal"](https://nonlocal.libsyn.com/) that focuses on various topics in quantum information.
+
+### GitHub Stats 📈
+
+![Vincent's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=vprusso&show_icons=true)
+
+
