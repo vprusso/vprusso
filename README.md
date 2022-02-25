@@ -28,4 +28,14 @@ webpage](http://vprusso.github.io/).
 ![Vincent's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=vprusso&show_icons=true)
 
+### Sponsors
+
+All of the software on my repos here are free, but that still takes time and effort to produce. I greatly appreciate the support of the following company sponsors who have found value in the code here and have provided generous sponsor donations. 
+
+If you would like to buy me a coffee to keep me going as well, I sincerely appreciate the support!
+https://www.paypal.me/VincentRusso1
+
+Supporters:
+
+![LogoVertical](https://user-images.githubusercontent.com/1562214/155733860-03f97629-45a9-4082-bc65-c1ba5a07c280.png)
 
