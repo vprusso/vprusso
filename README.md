@@ -37,5 +37,6 @@ https://www.paypal.me/VincentRusso1
 
 Supporters:
 
-[![LogoVertical](https://user-images.githubusercontent.com/1562214/155733860-03f97629-45a9-4082-bc65-c1ba5a07c280.png)](https://oxylabs.io?utm_source=vprusso&utm_medium=cpc&utm_campaign=vprusso_github_sponsor&adgroupid=20220225)
-
+<a href="(https://oxylabs.io?utm_source=vprusso&utm_medium=cpc&utm_campaign=vprusso_github_sponsor&adgroupid=20220225">
+  <img src="https://user-images.githubusercontent.com/1562214/155733860-03f97629-45a9-4082-bc65-c1ba5a07c280.png" width="60" height="60" />
+</a>
