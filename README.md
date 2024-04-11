@@ -2,10 +2,6 @@
 
 Hello! I'm Vincent Russo.
 
-I am presently the CEO and co-founder of
-[Modellicity](https://www.modellicity.com/); a company focused on delivering
-software solutions to clients in the financial space and abroad.
-
 I hold a Bachelors, Masters, and Ph.D. in computer science.
 
 I have over a decade of experience in creating robust software solutions and
